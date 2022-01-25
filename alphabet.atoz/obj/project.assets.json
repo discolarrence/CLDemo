@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\alphabet.atoz.csproj",
-      "projectName": "alphabet.atoz",
-      "projectPath": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\alphabet.atoz.csproj",
+      "projectUniqueName": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\alphabet.csproj",
+      "projectName": "alphabet",
+      "projectPath": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\alphabet.csproj",
       "packagesPath": "C:\\Users\\disco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\obj\\",
       "projectStyle": "PackageReference",
