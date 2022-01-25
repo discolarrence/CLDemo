@@ -1,0 +1,16 @@
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\bin\Debug\net5.0\alphabet.atoz.exe
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\bin\Debug\net5.0\alphabet.atoz.deps.json
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\bin\Debug\net5.0\alphabet.atoz.runtimeconfig.json
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\bin\Debug\net5.0\alphabet.atoz.runtimeconfig.dev.json
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\bin\Debug\net5.0\alphabet.atoz.dll
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\bin\Debug\net5.0\ref\alphabet.atoz.dll
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\bin\Debug\net5.0\alphabet.atoz.pdb
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.atoz.csproj.AssemblyReference.cache
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.atoz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.atoz.AssemblyInfoInputs.cache
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.atoz.AssemblyInfo.cs
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.atoz.csproj.CoreCompileInputs.cache
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.atoz.dll
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\ref\alphabet.atoz.dll
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.atoz.pdb
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.atoz.genruntimeconfig.cache
