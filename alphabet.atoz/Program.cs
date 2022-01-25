@@ -9,15 +9,15 @@ namespace alphabet
         {
             AToZ();
             ZToA();
-            Console.ReadLine();
+            AToZEveyOther();
         }
 
         private static void AToZ()
         {
             string alphabet;
             var builder = new StringBuilder();
-            char letter = 'a';
-            while (letter <= 'z')
+            char letter = 'A';
+            while (letter <= 'Z')
             {
                 builder.Append(letter);
                 letter++;
@@ -30,8 +30,8 @@ namespace alphabet
         {
             string backwardsAlphabet;
             var builder = new StringBuilder();
-            char letter = 'z';
-            while (letter >= 'a')
+            char letter = 'Z';
+            while (letter >= 'A')
             {
                 builder.Append(letter);
                 letter--;
@@ -39,6 +39,21 @@ namespace alphabet
             backwardsAlphabet = builder.ToString();
             Console.WriteLine($"{backwardsAlphabet}");
         }
-   
+
+        private static void AToZEveyOther()
+        {
+            string alphabet;
+            var builder = new StringBuilder();
+            char letter = 'A';
+            while (letter <= 'Z')
+            {
+                builder.Append(letter);
+                letter++;
+                letter++;
+            }
+            alphabet = builder.ToString();
+            Console.WriteLine($"{alphabet}");
+        }
+
     }
 }
