@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FX2ozsG8+irL9fzKqR/LpsZUunh2s2oZyhsk0itojpK9aKjS3uLuI2E7q1/dWqWoF3JLeaKhTLkkqVh7wP4RYw==",
+  "dgSpecHash": "gDeposqMFviVlL683cBc73vluc7X2/ZYXE4ABHn5ye5DJSD1zBqoq2lJHTdBbSfgWdwcDl++n3R62yTWU5sA0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\alphabet.csproj",
+  "projectFilePath": "C:\\Users\\disco\\Projects\\CLDemo\\alphabet.atoz\\alphabet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

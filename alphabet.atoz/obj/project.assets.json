@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\alphabet.csproj",
+      "projectUniqueName": "C:\\Users\\disco\\Projects\\CLDemo\\alphabet.atoz\\alphabet.csproj",
       "projectName": "alphabet",
-      "projectPath": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\alphabet.csproj",
+      "projectPath": "C:\\Users\\disco\\Projects\\CLDemo\\alphabet.atoz\\alphabet.csproj",
       "packagesPath": "C:\\Users\\disco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\disco\\Projects\\alphabet\\alphabet\\alphabet.atoz\\obj\\",
+      "outputPath": "C:\\Users\\disco\\Projects\\CLDemo\\alphabet.atoz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

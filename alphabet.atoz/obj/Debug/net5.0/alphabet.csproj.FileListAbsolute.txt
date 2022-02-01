@@ -13,3 +13,4 @@ C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabe
 C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\ref\alphabet.dll
 C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.pdb
 C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.genruntimeconfig.cache
+C:\Users\disco\Projects\alphabet\alphabet\alphabet.atoz\obj\Debug\net5.0\alphabet.csproj.AssemblyReference.cache
