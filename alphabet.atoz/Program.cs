@@ -38,12 +38,14 @@ namespace alphabet
 
         private static int GetSkipNumber()
         {
+            bool validInt = false;
             int skipInt = 0;
-            while (skipInt == 0)
+
+            while (skipInt == 0 || validInt == false)
             {
                 Console.WriteLine("How many letters would you like to skip?");
                 string skipString = Console.ReadLine();
-                int.TryParse(skipString, out skipInt);
+                validInt = int.TryParse(skipString, out skipInt);
             }
 
             return skipInt;
@@ -61,6 +63,7 @@ namespace alphabet
                 validChar = char.TryParse(startLetterString, out startLetterChar);
 
             }
+
             return char.ToUpper(startLetterChar);
         }
 
