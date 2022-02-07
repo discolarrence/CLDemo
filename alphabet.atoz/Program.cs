@@ -21,19 +21,15 @@ namespace alphabet
 
                 if (mainMenuChoice == "1")
                 {
-                    char startLetter = GetStartLetter();
-                    Console.WriteLine($"\n{ AToZ(startLetter) }\n");
+                    Console.WriteLine($"\n{ AToZ(GetStartLetter()) }\n");
                 }
                 if (mainMenuChoice == "2")
                 {
-                    char startLetter = GetStartLetter();
-                    Console.WriteLine($"\n{ ZToA(startLetter) }\n");
+                    Console.WriteLine($"\n{ ZToA(GetStartLetter()) }\n");
                 }
                 if (mainMenuChoice == "3")
                 {
-                    char startLetter = GetStartLetter();
-                    int skipInt = GetSkipNumber();
-                    Console.WriteLine($"\n{ AToZSkip(skipInt, startLetter) }\n");
+                    Console.WriteLine($"\n{ AToZSkip(GetSkipNumber(), GetStartLetter()) }\n");
                 }
 
             }
