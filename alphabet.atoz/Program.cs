@@ -29,7 +29,7 @@ namespace alphabet
                 }
                 if (mainMenuChoice == "3")
                 {
-                    Console.WriteLine($"\n{ AToZSkip(GetSkipNumber(), GetStartLetter()) }\n");
+                    Console.WriteLine($"\n{ AToZSkip(GetStartLetter(), GetSkipNumber()) }\n");
                 }
 
             }
@@ -91,7 +91,7 @@ namespace alphabet
             return builder.ToString();
         }
 
-        public static string AToZSkip(int step, char startLetter)
+        public static string AToZSkip(char startLetter, int step)
         {
             StringBuilder builder = new();
             char letter = startLetter;
