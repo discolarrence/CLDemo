@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\disco\\Projects\\CLDemo\\ValueVsRefTypes\\ValueVsRefTypes.csproj",
-      "projectName": "ValueVsRefTypes",
-      "projectPath": "C:\\Users\\disco\\Projects\\CLDemo\\ValueVsRefTypes\\ValueVsRefTypes.csproj",
+      "projectUniqueName": "C:\\Users\\disco\\Projects\\CLDemo\\CodeLouisvilleLibrary\\CodeLouisvilleLibrary.csproj",
+      "projectName": "CodeLouisvilleLibrary",
+      "projectPath": "C:\\Users\\disco\\Projects\\CLDemo\\CodeLouisvilleLibrary\\CodeLouisvilleLibrary.csproj",
       "packagesPath": "C:\\Users\\disco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\disco\\Projects\\CLDemo\\ValueVsRefTypes\\obj\\",
+      "outputPath": "C:\\Users\\disco\\Projects\\CLDemo\\CodeLouisvilleLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

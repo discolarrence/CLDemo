@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "alphabet", "alphabet.atoz\alphabet.csproj", "{19FEB803-0084-4534-9332-70FBD9B951F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueVsRefTypes", "ValueVsRefTypes\ValueVsRefTypes.csproj", "{ADFECE7A-6AEB-4D76-9ABA-732FE33259F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueVsRefTypes", "ValueVsRefTypes\ValueVsRefTypes.csproj", "{ADFECE7A-6AEB-4D76-9ABA-732FE33259F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLouisvilleLibrary", "CodeLouisvilleLibrary\CodeLouisvilleLibrary.csproj", "{96DC0138-34DB-4B76-AC24-921CB64B6F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnsProject", "JohnsProject\JohnsProject.csproj", "{5193340C-05C8-419D-B9B7-CB83A074CCA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{ADFECE7A-6AEB-4D76-9ABA-732FE33259F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADFECE7A-6AEB-4D76-9ABA-732FE33259F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADFECE7A-6AEB-4D76-9ABA-732FE33259F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DC0138-34DB-4B76-AC24-921CB64B6F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DC0138-34DB-4B76-AC24-921CB64B6F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DC0138-34DB-4B76-AC24-921CB64B6F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DC0138-34DB-4B76-AC24-921CB64B6F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5193340C-05C8-419D-B9B7-CB83A074CCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5193340C-05C8-419D-B9B7-CB83A074CCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5193340C-05C8-419D-B9B7-CB83A074CCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5193340C-05C8-419D-B9B7-CB83A074CCA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
