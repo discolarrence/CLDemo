@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace NumberApp
 
@@ -12,6 +13,20 @@ namespace NumberApp
                 "2. List all odd numbers between 1 and X" +
                 "3. List all numbers between 1 and X divisible by Y\n" +
                 "4. List all prime numbers between 1 and X");
+
+            Console.WriteLine(ListEvenNumbers(10));
+        }
+
+        static List<int> ListEvenNumbers(int endNumber)
+        {
+            int i = 2;
+            List<int> numberList = null;
+            while (i < endNumber)
+            {
+                numberList.Add(i);
+                i += 2;
+            }
+            return numberList;
         }
     }
 }

@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLouisvilleLibrary", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnsProject", "JohnsProject\JohnsProject.csproj", "{5193340C-05C8-419D-B9B7-CB83A074CCA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{311EB4A8-F6B7-43DF-B061-7C0907B0A62E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberApp", "ConsoleApp1\NumberApp.csproj", "{311EB4A8-F6B7-43DF-B061-7C0907B0A62E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
